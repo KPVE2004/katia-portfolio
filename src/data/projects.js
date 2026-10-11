@@ -91,7 +91,7 @@ export const projects = [
     description:
       'Sistema de gestión de flotillas basado en microservicios, con detección de fatiga que genera alertas en tiempo real. Integrante del Development Team en equipo Scrum (JIRA, Pull Requests).',
     stack: ['Python', 'Django', 'FastAPI', 'PostgreSQL', 'MongoDB', 'Redis'],
-    image: 'https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80',
     github: 'https://github.com/AngelCanelaaa/gestion-flotillas-ia',
     demo: null,
     status: 'En desarrollo',
